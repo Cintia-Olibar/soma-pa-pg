@@ -1,7 +1,7 @@
-# soma-pa-pg
+# soma-pa-pg / Junit
 
-Projeto simples em **Java** para calcular a soma de Progressões Aritméticas (PA) e Progressões Geométricas (PG).  
-Inclui implementação e testes automatizados com **JUnit**.
+Projeto em **Java** focado em **testes unitários** com JUnit.  
+Implementa cálculos de soma de Progressões Aritméticas (PA) e Progressões Geométricas (PG), servindo como prática para criação e execução de testes.
 
 
 ## Estrutura do projeto
