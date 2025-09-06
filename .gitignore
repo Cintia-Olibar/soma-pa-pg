@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Pastas de compilação
+out/
+bin/
+build/
+target/
+
+# Arquivos temporários
+*.log
+*.cache
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
